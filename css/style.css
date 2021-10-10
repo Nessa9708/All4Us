@@ -2,7 +2,7 @@ a {
     text-decoration:none
    }
    #algae-1 {
-    left:100px
+    left:300px
    }
    #algae-2 {
     left:800px
@@ -35,14 +35,14 @@ a {
     margin-top: 190px;
     z-index: -1;
 }
-
+/*
 #w-super-2 {
     height: 385px; 
     width: 270px;
     margin-left:-570px;
     margin-top: 320px;
     z-index: -1;
-}
+}*/
 
    .algae-a {
     bottom:0;
